@@ -1,1 +1,1 @@
-# EDA_Smartphon
+# EDA_Smartphones
