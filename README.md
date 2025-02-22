@@ -58,5 +58,5 @@ With the increasing variety of smartphones in the market, customers often strugg
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
 3. Run the Jupyter Notebook or Google Colab.
-4. Load the dataset (smartphone_cleaned_v5.csv).
+4. Load the dataset (smartphone.csv).
 5. Execute the cells to visualize and analyze the data.
